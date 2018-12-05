@@ -5,7 +5,7 @@ Developed a standalone end-to-end Course management spring application having co
 
 Created some RESTful endpoints for course management system by developing business controllers, services and repository classes using spring boot.
 
-Topic and Cource are two models or database entities used in the project. A topic can have multiple courses, hence maintained the foreign-key relationship between the entities using JPA.
+Topic and Course are two models or database entities used in the project. A topic can have multiple courses, hence maintained the foreign-key relationship between the entities using JPA.
 
 Apache Derby has been used as database and Spring Data JPA has been used for data layer. 
 
